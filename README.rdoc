@@ -1,28 +1,13 @@
-== README
+== Robust Team Passwords
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple to use, self hostable system to share passwords easily with your team. It's team password management simplified.
 
-Things you may want to cover:
+Host this yourself and share the server address. No more worries about security breaches or any of that nonsense.
 
-* Ruby version
+More coming soon, this app isn't finished yet :)
 
-* System dependencies
+Requirements:
+Ruby (most recent version is best)
+Sqlite or other database supported by active record. Sqlite is fine for most users.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Enterprise / large organization? Contact us and let us setup a managed solution for you.
